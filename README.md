@@ -1,2 +1,2 @@
 # sql-projects
-A repository of sql based projects or projects that heavily utilize sql.
+A repository of Oracle sql based projects or projects that heavily utilize sql.
